@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @14Rugved
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning more about css and boostrap 
+- 🌱 I’m currently learning more about AIML and neural networks
 - 📫 How to reach me : rugvedsacpatil2004@gmail.com
 
 <!---
